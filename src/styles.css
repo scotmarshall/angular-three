@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+body {
+    margin: 0;
+    background-color: #ffdca8;
+    font-size: 24px;
+    font-family: 'Agdasima', sans-serif;
+    text-shadow: 2px 2px #000000;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#insideTitle {
+    text-align: center;
+    color: white;
+}
